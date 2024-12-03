@@ -1,3 +1,5 @@
 # Shopping List Application
 
 This project is currently underway and will be completed in the coming weeks.
+
+A classic shopping list app that allows the user to keep track of the products they currently need while shopping. On launching the application, the user is greeted by an interface where he can enter a username and password pair to log in and create an account by pressing the "Registration" button. Once logged in, the main page opens. In the bar on the left side of the screen, the user can add new spaces to the list. This can be done by entering the name, quantity and optional extra information. Press the "Add" button to add it to the list on the right. Once added, the user can delete the item, change its quantity, tick the item off the list, or, once ticked, enter the price of the product, which the application will add to an aggregate value, which the user will see at the top of the screen, using the "quantity" value entered. When an item is deleted, this total is reduced. After completing the purchase, the user can clear all the items in the list by pressing the "Clear list" button in the top right corner of the screen.
